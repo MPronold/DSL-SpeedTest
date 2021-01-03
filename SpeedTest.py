@@ -1,5 +1,5 @@
-''' Short-Code zu check your internet-speed. 
-If you have some problems check out following stackoverflow-post: 
+''' Short-Code to check your internet-speed. 
+If you have some problems (on Mac) check out following stackoverflow-post: 
 https://stackoverflow.com/questions/56326644/python-speedtest-facing-problems-with-certification-ssl-c1056'''
 
 import speedtest
